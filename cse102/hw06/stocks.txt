@@ -1,0 +1,9 @@
+sID,pID,branch,current_stock
+1,1,Kocaeli,300
+2,1,Istanbul,500
+3,2,Istanbul,300
+4,3,Istanbul,0
+5,2,Izmir,124
+6,1,Izmir,62
+7,4,Kocaeli,216
+8,4,Istanbul,411

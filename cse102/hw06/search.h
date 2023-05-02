@@ -1,0 +1,2 @@
+void listAllProducts();
+void filterProducts();

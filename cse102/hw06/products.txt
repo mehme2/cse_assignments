@@ -1,0 +1,7 @@
+pID,type,name,brand,price,example
+1,D,Ayran,Sutas,20.5,value
+2,F,Simit,Firin,8.0,None
+3,F,Yogurt,Sutas,40.0,None
+4,F,Peynir,Sutas,60,None
+5,F,Ekmek,Firin,6.0,None
+6,D,IceTea,Liptn,13.5,None
