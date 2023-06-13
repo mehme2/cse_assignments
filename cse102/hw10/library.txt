@@ -1,0 +1,18 @@
+9781432117758,The Bible 2: Hail to the King of the Jews Baby!,Z.M. Thomas,2019,0
+9781421578798,Jojo's Bizarre Adventure: Part 1 - Phantom Blood,Hirohiko Araki,1986,0
+9780545685153,Minecraft: Redstone Handbook,Scholastic,2014,0
+9781985412132,Nutuk,Mustafa Kemal Ataturk,1927,0
+9780977300969,Qur'an,Muhammad,632,0
+9781974709939,Chainsaw Man,Tatsuki Fujimoto,2018,0
+9781974706525,Jojo's Bizarre Adventure: Part 4 - Diamond Is Unbreakable,Hirohiko Araki,1992,0
+9781617750250,Go the Fuck to Sleep,Adam Mansbach,2011,0
+9780451524935,1984,George Orwell,1949,0
+9781432117757,Holy Bible,About 40 people,100,0
+9780679735779,American Psycho,Bret Easton Ellis,1991,0
+9781421590653,Jojo's Bizarre Adventure: Part 3 - Stardust Crusaders,Hirohiko Araki,1989,0
+9781599869773,The Art Of War,Sun Tzu,-500,0
+9781421578828,Jojo's Bizarre Adventure: Part 2 - Battle Tendency,Hirohiko Araki,1987,0
+9780000000004,testbook4,test,2004,0
+9780000000003,testbook3,test,2003,0
+9780000000002,testbook2,test,2002,1
+9780000000001,testbook1,test,2001,0
