@@ -1,0 +1,3 @@
+[submodule "cse343"]
+	path = cse343
+	url = https://github.com/ReservoirDevsGTU/ProductionPlanningOfTextileMachines.git
