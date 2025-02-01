@@ -1,0 +1,12 @@
+#!/bin/sh
+
+echo -e '\ninput:\n'
+cat test.g++
+
+echo -e '\nflex:\n'
+flex -o gpp_lexer.c gpp_lexer.l
+gcc gpp_lexer.c -o lexer
+cat test.g++ | ./lexer
+
+echo -e '\nlisp:\n'
+cat test.g++ | sbcl --script gpp_lexer.lisp

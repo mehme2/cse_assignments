@@ -1,0 +1,5 @@
+(for (set x 0) (less x 10) (set x (+ x 1)) (print x))
+ (set if 10)
+(print 1, 2, 3)
+(set x 10@20)
+(deffun factorial (n) (if (equal 1f 0f1) 1 (* n (factorial (- n 1)))))

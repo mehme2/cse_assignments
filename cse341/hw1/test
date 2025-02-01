@@ -1,0 +1,13 @@
+#!/bin/sh
+
+sbcl --script main.lisp
+echo -e "\n\nOriginal C Code:\n"
+cat input.c
+echo -e "\n\nConverted Lisp Code:\n"
+cat output.lisp
+echo -e "\n\nC Output:\n"
+gcc input.c > /dev/null
+./a.out
+rm a.out
+echo -e "\n\nLisp Output:\n"
+sbcl --script output.lisp

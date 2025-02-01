@@ -1,0 +1,11 @@
+(deffun fibo (x) (if (less x 2) 1 (+ (fibo (- x 1)) (fibo (- x 2)))))
+
+(deffun sum (x y) (+ x y))
+(defvar i 0)
+(defvar j 0)
+(while (less i 11) (set i (+ i 1)) (print i))
+(if false (print 31))
+(for (i 1 10) (print i))
+(print '(1, 2, 3, 4))
+(print (fibo 12))
+;;a

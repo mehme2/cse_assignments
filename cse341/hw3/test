@@ -1,0 +1,13 @@
+#!/bin/sh
+
+echo -e '\ninput:\n'
+cat test.g++
+
+echo -e '\nyacc:\n'
+flex gpp_lexer.l && \
+yacc -d gpp_interpreter.y && \
+gcc *.c -o g++ -g && \
+echo -e "(load \"test.g++\")" | ./g++
+
+echo -e '\nlisp:\n'
+echo -e "(load \"test.g++\")" | sbcl --script g++.lisp
